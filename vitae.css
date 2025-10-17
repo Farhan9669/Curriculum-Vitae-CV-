@@ -173,4 +173,9 @@ button.btn {
   .sidebar {
     border-bottom: 1px solid var(--blue-dark);
   }
+
+  #contact p {
+  color: var(--text);
 }
+}
+
